@@ -9,7 +9,17 @@ ModelImporter:
   - first:
       74: 544843781022566825
     second: LowManSkeleton|LowManSkeleton|mixamo.com|Layer0.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 046f56d040d11284cb120b5db78a50e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MazeLowMan.001
+    second: {fileID: 2100000, guid: e7a80f99d6a6e4d4bb841db837538d01, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
